@@ -11,5 +11,3 @@ Saving varies by the type of work you are doing:
 
 To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox
 =======
-# CLI-Portfolio-Project-RedRocks
->>>>>>> a2fdc38f16251a98057cd7c8b842acf308c2b2f7
